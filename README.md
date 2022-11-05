@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student studying Programming in computer systems from Russia 🇷🇺</h3>
 <br>
-###
-- 🌱 I’m currently learning Qt
+
+- 🌱 I’m currently learning Qt<br>
 - 📫 How to reach me: https://vk.com/istrav
