@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -:school_satchel:
 - 🌱 I’m currently learning Qt<br>
 - 📫 How to reach me: https://vk.com/istrav<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IG-or-LO&layout=compact)](https://github.com/IG-or-LO/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/IG-or-LO&layout=compact)](https://github.com/IG-or-LO/github-readme-stats)
