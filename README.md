@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I'm Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student studying Programming in computer systems,i'm from Russia 🇷🇺</h3>
+<h3 align="center"> Working on company </h3>
 <br>
 -:school_satchel:
 - 🌱 I’m currently learning Qt<br>
